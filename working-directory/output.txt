@@ -1,0 +1,7 @@
+AAA is: 123
+total 40
+-rw-r--r--   1 icourt1  staff    12B Oct 26 17:05 output.txt
+drwxr-xr-x  12 icourt1  staff   384B Oct 26 17:04 ..
+-rw-r--r--   1 icourt1  staff    47B Oct 26 16:58 run.sh
+drwxr-xr-x   5 icourt1  staff   160B Oct 26 16:58 .
+-rw-r--r--   1 icourt1  staff    11K Oct 26 16:58 .hidden.txt
